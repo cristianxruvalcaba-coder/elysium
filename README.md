@@ -166,6 +166,6 @@ class MyAdapter implements Adapter {
 
 ## License
 
-Apache 2.0 — see [LICENSE](./LICENSE).
+FSL-1.1-Apache (converts to Apache 2.0 after two years) — see [LICENSE](./LICENSE).
 
 Enterprise features (hash-chained audit trails, multi-tenant isolation, compliance controls) are available at [asphodel.ai](https://asphodel.ai).
